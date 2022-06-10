@@ -92,7 +92,7 @@ html {
 
 #about {
     background-color: rgb(125, 250, 25);
-    background-image: url(/images/whitesands_medium.jpg);
+    background-image: url(/images/Whitesands.jpg);
 }
 
 #about a ion-icon {
@@ -101,7 +101,7 @@ html {
 
 #projects {
     background-color: rgb(180, 35, 35);
-    background-image: url(/images/anole_medium.jpg);
+    background-image: url(/images/Anole.jpg);
 }
 
 #projects a ion-icon {
